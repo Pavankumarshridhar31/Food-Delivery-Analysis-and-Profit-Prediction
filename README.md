@@ -2,3 +2,15 @@ This project analyzes and predicts the profitability of food delivery services u
 
 
 ![image](https://github.com/user-attachments/assets/de1caf38-338b-4321-96dc-f04213c7fc9d)
+
+
+![image](https://github.com/user-attachments/assets/9190b1ed-22fb-45e0-9463-a1f1299e5fef)
+
+
+
+![image](https://github.com/user-attachments/assets/f7f1cb24-0d7a-48b6-b735-11bd72318f42)
+
+
+![image](https://github.com/user-attachments/assets/725c711d-4d2b-4b80-9d96-34e4c1947881)
+
+
